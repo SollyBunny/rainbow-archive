@@ -1,3 +1,5 @@
+Archived, new implemented [here](https://github.com/SollyBunny/term-utils)
+
 # rainbow
 A lolcat alternative made in C
 
@@ -20,7 +22,7 @@ Run `make install` to install
 Run `make uninstall` to uninstall
 
 ## Usage
-Run `inputoverlay`
+Run `rainbow`
 
 ## Problems
 Window managers with background blur, and/or borders are not told to disable these features  
