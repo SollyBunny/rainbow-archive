@@ -1,5 +1,3 @@
-Archived, new implemented [here](https://github.com/SollyBunny/term-utils)
-
 # rainbow
 A lolcat alternative made in C
 
